@@ -1,0 +1,19 @@
+{
+  "name": "draft_bored",
+  "version": "1.0.0",
+  "description": "NFL Draft Simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhorne/draft_bored.git"
+  },
+  "author": "Heath H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhorne/draft_bored/issues"
+  },
+  "homepage": "https://github.com/hhorne/draft_bored#readme"
+}
